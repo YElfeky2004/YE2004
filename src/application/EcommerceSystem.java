@@ -16,7 +16,7 @@ public class EcommerceSystem extends Application {
             Scene scene = new Scene(root, 600, 400);
 
             primaryStage.setScene(scene);
-            primaryStage.setTitle("JavaFX Application");
+            primaryStage.setTitle("EcommerceSystem");
             primaryStage.show();
         } catch (Exception e) {
             e.printStackTrace();
